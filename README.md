@@ -1,13 +1,15 @@
-# Stalker Portal 5.0.3 install on Ubuntu 20.04 LTS / 18.04 LTS
+# Stalker Portal 5.0.3 install on Ubuntu 14.04 LTS / 16.04 LTS
 
-Stalker Portal auto install script on Ubuntu 20.04 LTS / 18.04 LTS
+Stalker Portal auto install script on Ubuntu 14.04 LTS / 16.04 LTS
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DaliborVidovic?country.x=BA&locale.x=en_US)  You can make one-time donations via PayPal.
 
 ##### Runs on
 [![Ubuntu](https://user-images.githubusercontent.com/12951085/139538206-833d8d33-0d1b-4d51-8ec8-86e5cf14f82e.png)](https://www.ubuntu.com)
 
-This script work only on Clean Ubuntu 20.04 LTS / 18.04 LTS
+This script work only on Clean Ubuntu 14.04 LTS / 16.04 LTS
+
+Version PHP5
 
 Stalker auto install script
   * Version of Stalker 5.0.3
