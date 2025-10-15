@@ -57,4 +57,4 @@ truncate itv;
 ```
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DaliborVidovic?country.x=BA&locale.x=en_US)  You can make one-time donations via PayPal.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/daliborDE)  You can make one-time donations via PayPal.
