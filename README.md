@@ -2,7 +2,7 @@
 
 Stalker Portal auto install script on Ubuntu 14.04 LTS / 16.04 LTS
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DaliborVidovic?country.x=BA&locale.x=en_US)  You can make one-time donations via PayPal.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/daliborDE)  You can make one-time donations via PayPal.
 
 ##### Runs on
 [![Ubuntu](https://user-images.githubusercontent.com/12951085/139538206-833d8d33-0d1b-4d51-8ec8-86e5cf14f82e.png)](https://www.ubuntu.com)
@@ -57,4 +57,4 @@ truncate itv;
 ```
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/daliborDE)  You can make one-time donations via PayPal.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/daliborDE)  You can make one-time donations via PayPal.
